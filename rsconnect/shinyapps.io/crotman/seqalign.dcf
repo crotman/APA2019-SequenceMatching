@@ -1,0 +1,12 @@
+name: seqalign
+title: seqalign
+username:
+account: crotman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 975143
+bundleId: 2147124
+url: https://crotman.shinyapps.io/seqalign/
+when: 1560303177.8768
+asMultiple: FALSE
+asStatic: FALSE
